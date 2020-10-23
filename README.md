@@ -8,7 +8,8 @@ For more information look at [The Department of Foreign Languages page](http://s
 0. **Wprowadzenie - fizyka rządzi światem** - 2.10.2020 *(ZOOM)*
 1. **Mechanika klasyczna - Kinematyka** - 9.10.2020 *(ZOOM)*
 2. **Mechanika klasyczna - Dynamika** - 16.10.2020 *(ZOOM)*
-3. **Mechanika klasyczna - Ruch obrotowy** - 23.10.2020 *(ZOOM)*
-4. **Mechanika klasyczna - Ruch harmoniczny** - 30.10.2020 *(ZOOM)*
-5. **Mechanika klasyczna - Ciążenie powszechne** - 6.11.2020 *(ZOOM)* <br>
+3. **Mechanika klasyczna - Ruch krzywoliniowy: rzut ukośny i ruch po okręgu** - 23.10.2020 *(ZOOM)*
+4. **Mechanika klasyczna - Dynamika bryły sztywnej** - 30.10.2020 *(ZOOM)*
+5. **Mechanika klasyczna - Ruch harmoniczny/Ciążenie powszechne** - 6.11.2020 *(ZOOM)* <br>
+6. ...
 ...
