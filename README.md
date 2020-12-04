@@ -17,6 +17,6 @@ For more information look at [The Department of Foreign Languages page](http://s
 10. **Fale mechaniczne** - 11.12.2020 *(ZOOM)* <br>
 11. **Dźwięk** - 18.12.2020 *(ZOOM)* <br>
 12. **Mechanika płynów** - 8.01.2020 *(ZOOM)* <br>
-13. **Podstawy termodynamiki** - 15.01.2020 *(ZOOM)* <br>
+13. **Zajęcia powtórzeniowe - mechanika klasyczna, dźwięki i fale, szczególna teoria względności** - 15.01.2020 *(ZOOM)* <br>
 14. **Kolokwium końcowe** - 22.01.2020 *(ZOOM)* <br>
-15. **Zasady termodynamiki / Poprawki** - 29.01.2020 *(ZOOM)* <br>
+15. **Podstawy termodynamiki / Poprawki** - 29.01.2020 *(ZOOM)* <br>
