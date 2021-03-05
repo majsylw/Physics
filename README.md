@@ -23,7 +23,7 @@ Część I: Semestr zimowy 2020/21
 14. **Kolokwium końcowe** - 22.01.2020 *(ZOOM)* <br>
 15. **Podstawy termodynamiki / Poprawki** - 29.01.2020 *(ZOOM)* <br>
 
-Część II: Semestr zimowy 2020/21
+Część II: Semestr letni 2020/21
 
 16. **Kinetyczna teoria gazów** - 5.03.2021 *(ZOOM)*
 17. **Zasady termodynamiki** - 12.03.2021 *(ZOOM)*
