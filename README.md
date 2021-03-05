@@ -24,6 +24,7 @@ Część I: Semestr zimowy 2020/21
 15. **Podstawy termodynamiki / Poprawki** - 29.01.2020 *(ZOOM)* <br>
 
 Część II: Semestr zimowy 2020/21
+
 16. **Kinetyczna teoria gazów** - 5.03.2021 *(ZOOM)*
 17. **Zasady termodynamiki** - 12.03.2021 *(ZOOM)*
 18. **Ładunki i pola elektryczne** - 19.03.2021 *(ZOOM)*
