@@ -31,9 +31,9 @@ Część II: Semestr letni 2020/21
 19. **Ładunki i pola elektryczne** - 26.03.2021 *(ZOOM)*
 20. **Prąd i rezystancja** - 30.03.2021 *(ZOOM)*
 21. **Siła i pole magnetyczne** - 9.04.2021 *(ZOOM)*
-22. **Fale elektromagnetyczne** - 16.04.2021 *(ZOOM)* <br>
+22. **Prąd zmienny** - 16.04.2021 *(ZOOM)* <br>
 23. **Optyka geometryczna i tworzenie obrazu** - 23.04.2021 *(ZOOM)* <br>
-24. **Zjawiska falowe**- 30.04.2021 *(ZOOM)* <br>
+24. **Zjawiska falowe dla fal elektromagnetycznych**- 30.04.2021 *(ZOOM)* <br>
 25. **Fale materii** - 7.05.2021 *(ZOOM)* <br>
 26. **Mechanika kwantowa** - 14.05.2020 *(ZOOM)* <br>
 27. **Fizyka cząstek elementarnych** - 21.05.2021 *(ZOOM)* <br>
