@@ -36,7 +36,7 @@ Część II: Semestr letni 2020/21
 24. **Zjawiska falowe dla fal elektromagnetycznych**- 30.04.2021 *(ZOOM)* <br>
 25. **Fale materii** - 7.05.2021 *(ZOOM)* <br>
 26. **Mechanika kwantowa** - 14.05.2020 *(ZOOM)* <br>
-27. **Fizyka cząstek elementarnych** - 21.05.2021 *(ZOOM)* <br>
+27. **Fizyka jądrowa i kosmologia** - 21.05.2021 *(ZOOM)* <br>
 28. **Zajęcia powtórzeniowe - termodynamika, elektryczność i magnetyzm, optyka, fizyka współczesna** - 28.05.2021 *(ZOOM)* <br>
 29. **Kolokwium końcowe** - 11.06.2021 *(ZOOM)* <br>
 30. **Egzamin ustny / Poprawki** - 18.06.2021 *(ZOOM)* <br>
